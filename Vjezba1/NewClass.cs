@@ -8,5 +8,8 @@ namespace Vjezba1
 {
     class NewClass
     {
+        class PraznaMetoda()
+        {
+        }
     }
 }
